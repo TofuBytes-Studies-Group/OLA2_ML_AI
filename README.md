@@ -1,6 +1,6 @@
 # OLA2-Supervised Learning Assignment
 
-This repository contains the work for the "OLA2-Supervised Learning" assignment, created by Jamie, **Helena, and Isak.**
+This repository contains the work for the "OLA2-Supervised Learning" assignment, created by **Jamie, Helena, and Isak.**
 
 ## Files in the Repository
 
