@@ -4,13 +4,13 @@ This repository contains the work for the "OLA2-Supervised Learning" assignment,
 
 ## Files in the Repository
 
-- **`PredictionScript.py`**: This Python script is the core of our housing price prediction application. It allows users to select between three different models (Linear Regression, Random Forest, and XGBoost) to predict the price of a house based on various features.
-  
-  To run the application, make sure the required models (`LR_model.pkl`, `RF_model.pkl`, `tuned_XGB_model.pkl`) are in the same directory as the script. You can execute it via the command line, and it will guide you through selecting a model and entering feature values.
+**[`PredictionScript.py`](https://github.com/TofuBytes-Studies-Group/OLA2_ML_AI/blob/main/PredictionScript.py)**: This Python script is the core of our housing price prediction application. It allows users to select between three different models (Linear Regression, Random Forest, and XGBoost) to predict the price of a house based on various features. 
 
-- **`OLA2_Housing_Prediction.ipynb`**: This Jupyter notebook contains the exploratory data analysis (EDA), preprocessing steps, model training, and evaluation process for our housing price prediction project. It also provides the code for training the three models mentioned above and exporting them as `.pkl` files.
+**[`OLA2_Housing_Prediction.ipynb`](https://github.com/TofuBytes-Studies-Group/OLA2_ML_AI/blob/main/OLA2_Housing_Prediction.ipynb)**: This Jupyter notebook contains the exploratory data analysis (EDA), preprocessing steps, model training, and evaluation process for our housing price prediction project. It also provides the code for training the three models mentioned above and exporting them as `.pkl` files.
 
-- **`Presentation.pdf`**: This PDF file contains our final presentation for the assignment, detailing our approach, methodology, and results of the housing price prediction model.
+**[`Presentation.pdf`](https://github.com/TofuBytes-Studies-Group/OLA2_ML_AI/blob/main/Presentation.pdf)**: This PDF file contains our short presentation on the explanation of measuring distance between
+data points using Manhattan, Euclidean and Hamming distance also 
+- Also a link to the google slides presentation if view of the presentation notes is of interest, as a presentation is not supposed to have long monoliths of texts(see what i did there?), as it intereferes severely with user concentration: [Google Slides Link](https://docs.google.com/presentation/d/1ed3Tt9Gjt17G0c_IcVNlqk5WO07NRovDat30zzedOx8/edit?usp=sharing)
 
 ## How to Run the Prediction Script
 
